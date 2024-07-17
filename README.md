@@ -1,1 +1,3 @@
-# githubble-app
+Githubble
+
+npx create-expo-app --template
